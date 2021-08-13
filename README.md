@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/reganxzheng"><img alt="github" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 <a href="https://linkedin.com/in/frankiezheng"><img alt="linkedin" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href="https://frankiezheng.org/"><img alt="website" width="8%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/code.png"/></a> 
 </p>
 
 ### 👨🏻‍💻 &nbsp;Little About Me
