@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 ### 👨🏻‍💻 &nbsp;Little About Me
-👨🏻‍💻 &nbsp;I'm currently working in [Stuff](https://careers.stuff.co.nz/home) as Front-End Developer.
+👨🏻‍💻 &nbsp;I'm currently working in [ASB Bank](https://careers.asbgroup.co.nz/search) as Senior Software Engineer.
 
 🤔 &nbsp;I'm passionate about exploring new technology and building things for the better world.
 
